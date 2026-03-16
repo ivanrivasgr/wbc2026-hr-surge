@@ -325,7 +325,7 @@ with tab1:
       </span>
       <p style="margin:0.4rem 0 0;font-size:0.88rem;color:{TEXT_SEC};line-height:1.6">
         The 2026 edition <em style="color:{TEXT_PRI}">appears to be on pace to set the all-time WBC record for home runs</em> 
-        with 92 hit in pool play alone — surpassing the full-tournament record of 85 set in both 2009 and 2023. 
+        with 92 hit in pool play alone, surpassing the full-tournament record of 85 set in both 2009 and 2023. 
         This pattern <em>suggests</em> a structural shift worth exploring: tighter pitching limits, 
         roster construction optimized for short formats, and a possible ball composition change are all 
         candidate explanations. No single factor has been isolated yet.
