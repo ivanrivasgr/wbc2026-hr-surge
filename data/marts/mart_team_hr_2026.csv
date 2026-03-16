@@ -1,0 +1,21 @@
+team,pool,hr,w,l,stage,ingested_at,games_played,hr_per_game,hr_rank,advancement_group
+Dominican Republic,D,13,4,1,Semifinals,2026-03-16T01:33:06.858869,5,2.6,1,Advanced
+Italy,B,12,4,1,Semifinals,2026-03-16T01:33:06.858869,5,2.4,2,Advanced
+United States,B,12,4,1,Semifinals,2026-03-16T01:33:06.858869,5,2.4,2,Advanced
+Venezuela,D,11,4,1,Semifinals,2026-03-16T01:33:06.858869,5,2.2,4,Advanced
+Japan,C,9,3,2,Quarterfinals,2026-03-16T01:33:06.858869,5,1.8,5,Quarterfinals
+Korea,C,8,3,2,Quarterfinals,2026-03-16T01:33:06.858869,5,1.6,6,Quarterfinals
+Puerto Rico,A,7,3,2,Quarterfinals,2026-03-16T01:33:06.858869,5,1.4,7,Quarterfinals
+Canada,A,5,3,2,Quarterfinals,2026-03-16T01:33:06.858869,5,1.0,8,Quarterfinals
+Mexico,B,4,2,3,Pool Play,2026-03-16T01:33:06.858869,5,0.8,9,Eliminated
+Cuba,A,3,1,4,Pool Play,2026-03-16T01:33:06.858869,5,0.6,10,Eliminated
+Australia,C,3,2,3,Pool Play,2026-03-16T01:33:06.858869,5,0.6,10,Eliminated
+Netherlands,D,2,1,4,Pool Play,2026-03-16T01:33:06.858869,5,0.4,12,Eliminated
+Panama,A,2,1,4,Pool Play,2026-03-16T01:33:06.858869,5,0.4,12,Eliminated
+Colombia,A,2,0,5,Pool Play,2026-03-16T01:33:06.858869,5,0.4,12,Eliminated
+Taiwan,C,1,1,4,Pool Play,2026-03-16T01:33:06.858869,5,0.2,15,Eliminated
+Great Britain,B,1,1,4,Pool Play,2026-03-16T01:33:06.858869,5,0.2,15,Eliminated
+Israel,D,1,0,5,Pool Play,2026-03-16T01:33:06.858869,5,0.2,15,Eliminated
+Nicaragua,D,0,0,5,Pool Play,2026-03-16T01:33:06.858869,5,0.0,18,Eliminated
+Brazil,B,0,0,5,Pool Play,2026-03-16T01:33:06.858869,5,0.0,18,Eliminated
+Czechia,C,0,0,5,Pool Play,2026-03-16T01:33:06.858869,5,0.0,18,Eliminated
