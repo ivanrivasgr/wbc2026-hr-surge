@@ -113,4 +113,4 @@ or is it mostly a product of pitchers operating under strict inning limits
 and unfamiliar batters? How would you model tournament-context adjustments?
 
 ---
-Built by [Your Name] · March 2026 · Portfolio project
+Built by Ivan Gruber · March 2026 · Portfolio project
