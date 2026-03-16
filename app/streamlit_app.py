@@ -217,7 +217,7 @@ with col_title:
       The Home Run Surge
     </h1>
     <p style="font-size:1rem;color:#8A8A8A;margin:0;max-width:600px">
-      Exploring an unusual power pattern in tournament baseball — 
+      Exploring an unusual power pattern in tournament baseball, 
       pool play data, historical context, and key moments.
     </p>
     """, unsafe_allow_html=True)
@@ -426,7 +426,7 @@ with tab2:
           </span>
           <p style="margin:0.4rem 0 0;font-size:0.85rem;color:{TEXT_SEC};line-height:1.6">
             All four semifinalists ranked in the top 5 for total HRs. The data <em style="color:{TEXT_PRI}">
-            suggests a possible correlation</em> between power output and tournament advancement — 
+            suggests a possible correlation</em> between power output and tournament advancement
             but with only 20 teams and 5 pool games each, the sample is too small to isolate HR 
             production as a causal factor.
           </p>
