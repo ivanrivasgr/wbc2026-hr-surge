@@ -54,7 +54,7 @@ wbc2026-analytics/
 
 ```bash
 # 1. Clone and install
-git clone https://github.com/yourusername/wbc2026-analytics
+git clone https://github.com/ivanrivasgr/wbc2026-hr-surge
 cd wbc2026-analytics
 pip install -r requirements.txt
 
@@ -113,4 +113,4 @@ or is it mostly a product of pitchers operating under strict inning limits
 and unfamiliar batters? How would you model tournament-context adjustments?
 
 ---
-Built by Ivan Gruber · March 2026 · Portfolio project
+Built by Ivan F Gruber · March 2026 · Portfolio project
